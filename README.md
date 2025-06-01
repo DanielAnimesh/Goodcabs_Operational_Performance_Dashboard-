@@ -88,6 +88,9 @@ Power BI's data model was used to build relationships between dates, city, and p
 
 ![image](https://github.com/user-attachments/assets/9e826ace-2dc7-4257-97b7-4789ec516581)
 
+![image](https://github.com/user-attachments/assets/a574b3fb-af1c-403e-8ba1-7f528ede1e8d)
+
+
 
 ---
 
