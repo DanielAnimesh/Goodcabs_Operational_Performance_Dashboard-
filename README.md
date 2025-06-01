@@ -1,4 +1,4 @@
-###🚖 Goodcabs Passenger & Trip Insights – Power BI Dashboard
+### 🚖 Goodcabs Passenger & Trip Insights – Power BI Dashboard
 
 ## 📌 Project Overview
 **Goodcabs**, founded two years ago, is a fast-growing cab service company operating in Tier-2 cities across India. Its mission is to empower local drivers while ensuring quality service for passengers. With ambitious growth and service goals for 2024, the operations team wanted to **track key performance indicators** to improve decision-making and customer experience.
