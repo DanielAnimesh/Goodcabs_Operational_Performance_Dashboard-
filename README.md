@@ -110,7 +110,7 @@ Power BI's data model was used to build relationships between dates, city, and p
 ---
 
 ## 📊 Live Dashboard
-🔗 **[Power BI Live Dashboard]([(https://app.powerbi.com/view?r=eyJrIjoiNzNiYTM3N2MtZTQwYi00NjgxLWFmNmQtZGE4NTIzZTUzMjFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)])**
+🔗 **[Power BI Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzNiYTM3N2MtZTQwYi00NjgxLWFmNmQtZGE4NTIzZTUzMjFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 ## 💻 Project Files
 📂 **[View Code & Files on GitHub]([#](https://github.com/DanielAnimesh/Goodcabs_Operational_Performance_Dashboard-.git))**
